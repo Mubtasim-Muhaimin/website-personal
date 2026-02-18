@@ -1,0 +1,271 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px){
+.mb_cm {
+    padding-bottom: 30px;
+}
+/* header start  */
+.menu ul li a {
+    margin: 0 30px 0 0;
+}
+/* banner start  */
+.mb_cm{
+
+}
+.banner {
+    text-align: center;
+}
+.b_p1 {
+    font-size: 16px;
+}
+.b_p2 {
+    font-size: 18px;
+}
+.b_h1 {
+    font-size: 36px;
+    margin: 10px 0;
+}
+.b_text ul li a {
+    font-size: 20px;
+    margin-right: 0;
+    width: 40px;
+    height: 40px;
+}
+.btn_banner {
+    margin-top: 30px;
+}
+.btn_b1{
+    padding: 12px 60px;
+}
+.btn_b2 {
+    margin-left: 0;
+    margin-top: 10px;
+}
+.b_info {
+    margin-top: 30px;
+    padding: 0;
+}
+.info_h2 {
+    font-size: 18px;
+}
+.info_p1 {
+    font-size: 13px;
+}
+/* service start  */
+
+.s_box {
+    width: 296px;
+    height: 300px;
+    margin-top: 30px;
+    padding: 30px 0 10px;
+}
+.s_p1 {
+    font-size: 16px;
+}
+.s_p2 {
+    font-size: 16px;
+}
+.s_h2{
+    margin: 16px 0 16px;
+}
+/* abotu start  */
+.about {
+    text-align: center;
+
+}
+.a_img{
+    margin: 0 80px;
+    margin-bottom: 30px;
+}
+.a_p1 {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+/* footer start  */
+.footer_top {
+    padding: 40px 0 1px 0;
+}
+}
+
+
+
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px){
+.mb_cm {
+    padding-bottom: 80px;
+}
+/* header start  */
+.menu ul li a {
+    margin: 0 30px 0 0;
+}
+/* banner start  */
+.banner {
+    text-align: center;
+}
+.b_p1 {
+    font-size: 18px;
+}
+.b_p2 {
+    font-size: 22px;
+}
+.b_h1 {
+    font-size: 50px;
+    margin: 10px 0;
+}
+.b_img {
+    padding: 0 40px;
+}
+/* service start  */
+.s_box {
+    width: 250px;
+    height: 290px;
+    margin-top: 30px;
+    padding: 26px 0;
+}
+.s_img i {
+    font-size: 50px;
+}
+.s_h2 {
+    font-size: 18px;
+    margin: 16px 0 16px;
+}
+.s_p2 {
+    font-size: 16px;
+}
+/* abotu start  */
+.about {
+    text-align: center;
+}
+.a_img{
+    margin: 0 80px;
+    margin-bottom: 30px;
+}
+.a_p1 {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+}
+
+
+
+
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px){
+/* header start  */
+.mb_cm {
+    padding-bottom: 100px;
+}
+.menu ul li a {
+    margin: 0 30px 0 0;
+}
+/* banner start  */
+.banner{
+    text-align: center;
+}
+.b_text {
+    margin: 20px 70px 0;
+}
+.b_p1 {
+    font-size: 18px;
+}
+.b_h1{
+    font-size: 60px;
+    margin: 15px 0;
+}
+.info_h2 {
+    font-size: 22px;
+}
+.info_p1 {
+    font-size: 18px;
+
+}
+.b_img {
+    margin: 20px 90px 0;
+}
+/* service start  */
+.s_box {
+    width: 335px;
+    height: 316px;
+    padding: 35px 20px;
+}
+.s_img i {
+    font-size: 56px;
+}
+.s_h2 {
+    font-size: 22px;
+    margin: 16px 0 16px;
+}
+.s_p2 {
+    font-size: 18px;
+}
+/* abotu start  */
+.about {
+    text-align: center;
+}
+.a_img{
+    margin: 0 116px;
+    margin-bottom: 40px;
+}
+.a_p1 {
+    font-size: 18px;
+}
+}
+
+
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* banner start  */
+.mb_cm {
+    padding-bottom: 100px;
+}
+.b_info {
+    padding: 24px 0;
+}
+/* service start  */
+.s_box {
+    width: 290px;
+    height: 350px;
+    padding: 35px 0;
+}
+.s_img i{
+    font-size: 60px;
+}
+.s_p2 {
+    font-size: 18px;
+}
+.s_h2 {
+    font-size: 22px;;
+}
+/* about start */
+.a_p1 {
+    font-size: 18px;
+}
+/* Portfolio start  */
+
+/* Portfolio end  */
+/* contact start  */
+/* contact end */
+}  
+
+
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/* service start  */
+.s_box{
+    width: 360px;
+    height: 316px;
+}
+} 
+
+
+
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+    
+} 
